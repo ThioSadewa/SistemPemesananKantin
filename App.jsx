@@ -17,12 +17,9 @@ const App = () => {
           />
         </TouchableOpacity>
         <TouchableOpacity>
-          <Image
-            style={style.hamburger}
-              source={require('./src/assets/icons/menu.png')}
-          />
+
         </TouchableOpacity>
-      </View>
+      </View>  
       {/* navbar */}
 
 
